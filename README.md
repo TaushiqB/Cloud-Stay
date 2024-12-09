@@ -1,4 +1,4 @@
-# Cloud-Stay Accommodation (IGH) Booking System
+# Cloud-Stay 
 
 This repository contains the code for the **Accommodation Booking System**, which allows employees to book accommodation and manage meal bookings for a guest house. The system includes both a frontend and a backend. The frontend is built with **Angular**, and the backend is powered by **Spring Boot**.
 
